@@ -94,5 +94,12 @@ export let tools = {
         icon: 'spider-web',
         link: '/robots-txt-generator',
         description: "The Robots.txt Generator is a must-have tool for developers to create the robots.txt file, which controls search engine crawlers' access to specific pages or directories on a website. This tool offers a user-friendly interface to define crawling rules, including allow and disallow directives, to ensure optimal search engine indexing and prevent unwanted content from being indexed. Create and customize your robots.txt file efficiently with this generator to enhance your website's search engine optimization (SEO) efforts."
+    },
+    'meta-tag-generator': {
+        name: '<meta>tag Generator',
+        icon: 'spider-web',
+        link: '/meta-tag-generator',
+        description: "The meta tag generator tool helps website owners and developers optimize their web pages for search engines and social media platforms. It allows users to input essential information, such as the page title, description, author, and keywords. The tool then generates the corresponding HTML meta tags that users can easily add to their website's code. Additionally, it provides a preview feature, allowing users to see how their web page will appear in search engine results and when shared on social media, helping them fine-tune their meta tags for better visibility and click-through rates. This tool simplifies the process of creating effective meta tags and optimizing web pages for improved online discoverability.The Robots.txt Generator is a must-have tool for developers to create the robots.txt file, which controls search engine crawlers' access to specific pages or directories on a website. This tool offers a user-friendly interface to define crawling rules, including allow and disallow directives, to ensure optimal search engine indexing and prevent unwanted content from being indexed. Create and customize your robots.txt file efficiently with this generator to enhance your website's search engine optimization (SEO) efforts."
     }
+    
 };
